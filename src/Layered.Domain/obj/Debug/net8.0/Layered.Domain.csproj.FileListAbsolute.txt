@@ -1,0 +1,11 @@
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Domain/bin/Debug/net8.0/Layered.Domain.deps.json
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Domain/bin/Debug/net8.0/Layered.Domain.dll
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Domain/bin/Debug/net8.0/Layered.Domain.pdb
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Domain/obj/Debug/net8.0/Layered.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Domain/obj/Debug/net8.0/Layered.Domain.AssemblyInfoInputs.cache
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Domain/obj/Debug/net8.0/Layered.Domain.AssemblyInfo.cs
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Domain/obj/Debug/net8.0/Layered.Domain.csproj.CoreCompileInputs.cache
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Domain/obj/Debug/net8.0/Layered.Domain.dll
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Domain/obj/Debug/net8.0/refint/Layered.Domain.dll
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Domain/obj/Debug/net8.0/Layered.Domain.pdb
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Domain/obj/Debug/net8.0/ref/Layered.Domain.dll

@@ -1,0 +1,15 @@
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Persistence/bin/Debug/net8.0/Layered.Persistence.deps.json
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Persistence/bin/Debug/net8.0/Layered.Persistence.dll
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Persistence/bin/Debug/net8.0/Layered.Persistence.pdb
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Persistence/bin/Debug/net8.0/Layered.Domain.dll
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Persistence/bin/Debug/net8.0/Layered.Domain.pdb
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Persistence/obj/Debug/net8.0/Layered.Persistence.csproj.AssemblyReference.cache
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Persistence/obj/Debug/net8.0/Layered.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Persistence/obj/Debug/net8.0/Layered.Persistence.AssemblyInfoInputs.cache
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Persistence/obj/Debug/net8.0/Layered.Persistence.AssemblyInfo.cs
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Persistence/obj/Debug/net8.0/Layered.Persistence.csproj.CoreCompileInputs.cache
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Persistence/obj/Debug/net8.0/Layered..C253EBB1.Up2Date
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Persistence/obj/Debug/net8.0/Layered.Persistence.dll
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Persistence/obj/Debug/net8.0/refint/Layered.Persistence.dll
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Persistence/obj/Debug/net8.0/Layered.Persistence.pdb
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Persistence/obj/Debug/net8.0/ref/Layered.Persistence.dll

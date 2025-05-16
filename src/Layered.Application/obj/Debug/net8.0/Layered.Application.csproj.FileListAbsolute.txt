@@ -1,0 +1,15 @@
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Application/bin/Debug/net8.0/Layered.Application.deps.json
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Application/bin/Debug/net8.0/Layered.Application.dll
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Application/bin/Debug/net8.0/Layered.Application.pdb
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Application/bin/Debug/net8.0/Layered.Domain.dll
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Application/bin/Debug/net8.0/Layered.Domain.pdb
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Application/obj/Debug/net8.0/Layered.Application.csproj.AssemblyReference.cache
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Application/obj/Debug/net8.0/Layered.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Application/obj/Debug/net8.0/Layered.Application.AssemblyInfoInputs.cache
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Application/obj/Debug/net8.0/Layered.Application.AssemblyInfo.cs
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Application/obj/Debug/net8.0/Layered.Application.csproj.CoreCompileInputs.cache
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Application/obj/Debug/net8.0/Layered..8F42DAA4.Up2Date
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Application/obj/Debug/net8.0/Layered.Application.dll
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Application/obj/Debug/net8.0/refint/Layered.Application.dll
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Application/obj/Debug/net8.0/Layered.Application.pdb
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Application/obj/Debug/net8.0/ref/Layered.Application.dll
