@@ -17,7 +17,7 @@ public class ProductRepository : IProductRepository
 
     public async Task<IEnumerable<ProductEntity>> GetAllProductsAsync()
     {
-        return await _context.Products.ToListAsync<ProductEntity>();
+        return await _context.Products.ToListAsync();
     }
 
     public async Task<ProductEntity?> GetProductByIdAsync(int id)

@@ -6,6 +6,9 @@ namespace Layered.Application.Configuration;
 
 public class MapperProfile : Profile
 {
+/// <summary>
+/// Las funciones de MapperProfile mapean ProductEntity y El modelo y viceversa
+/// </summary>
     public MapperProfile() {
         CreateMap<ProductEntity, CreateProductModel>().ReverseMap();
     }

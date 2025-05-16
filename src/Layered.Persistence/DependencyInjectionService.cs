@@ -18,6 +18,7 @@ public static class DependencyInjectionService
             configuration.GetConnectionString("SQLConnectionString")
         ));
 
+        /* Registra un servicio en el contenedor de inyección de depencencias, cada vez que se llama la interfaz del servicio de db, se tiene que proveer un servicio de base de datos */
         services.AddScoped<IDatabaseService>(provider => 
             provider.GetRequiredService<DatabaseService>()
         );

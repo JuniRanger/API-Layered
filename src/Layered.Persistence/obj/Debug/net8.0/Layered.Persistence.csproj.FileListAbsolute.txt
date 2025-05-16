@@ -13,3 +13,4 @@
 /Users/jonathanm/Desktop/API-Layered/src/Layered.Persistence/obj/Debug/net8.0/refint/Layered.Persistence.dll
 /Users/jonathanm/Desktop/API-Layered/src/Layered.Persistence/obj/Debug/net8.0/Layered.Persistence.pdb
 /Users/jonathanm/Desktop/API-Layered/src/Layered.Persistence/obj/Debug/net8.0/ref/Layered.Persistence.dll
+/Users/jonathanm/Desktop/API-Layered/src/Layered.Persistence/obj/Debug/net8.0/Layered.Persistence.sourcelink.json
